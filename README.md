@@ -107,10 +107,4 @@ Durante el taller enfrentamos **problemas de compatibilidad con librerías y el 
 
 👉 Por estas razones, **no pudimos ejecutar el pipeline RAG de forma completa dentro de Jupyter**, aunque el código y la documentación siguen las mejores prácticas y los tutoriales oficiales. Los repositorios sirven como referencia y artefacto de aprendizaje.
 
----
-
-## ✅ Criterios de Evaluación
-- Código completo y alineado con los tutoriales.  
-- Documentación clara y detallada en el README.  
-- Organización adecuada de los repositorios en GitHub.  
 
